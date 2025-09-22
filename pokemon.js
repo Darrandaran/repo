@@ -1,0 +1,1 @@
+const pokemons = [{name: "pokemon1"}, {name:"pokemon2"}]
